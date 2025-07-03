@@ -6,7 +6,7 @@ This repository contains the certificate I received for successfully completing 
 
 ## 📜 Certificate
 
-- 📄 [View Certificate (PDF)]()
+- 📄 [View Certificate (PDF)](https://github.com/SanthiyaBaskar/Software-Engineering-CS302/upload/main)
 - 🌐 [View Certificate Online](https://learn.saylor.org/admin/tool/certificate/index.php?code=8159895653SB)
 
 ---
